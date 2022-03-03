@@ -1,0 +1,21 @@
+.Object_name{
+    color:rgb(44, 4, 59);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    
+    }
+    
+    #camera{
+        height:300px;
+        width:350px;
+        border-radius: 30px;
+        border: solid rgb(1, 11, 29) 5px;
+    }
+    p{
+        color: beige;
+    }
+    
+    span{
+       color: beige; 
+    }
